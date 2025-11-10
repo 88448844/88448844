@@ -38,13 +38,12 @@
 
 | GitHub Stats                                                                                                                              | Top Languages                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=88448844&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=88448844&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats),   <a href="https://linkedin.com/in/gabriel-bengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
-  <a href="https://twitter.com/gabriel-bengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="40" /></a>|
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=88448844&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=88448844&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
+<p align='center'
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=88448844&theme=dark)](https://git.io/streak-stats) 
-
+</p>
 ---
 
 ### `(base) ┌──(88448844㉿kali)-[~]`
