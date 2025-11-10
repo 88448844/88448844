@@ -11,7 +11,8 @@
 
 ---
 
-### `root@~# whoami`
+### `(base) ┌──(88448844㉿kali)-[~]`
+### `└─$ whoami 88448844`
 
 <p align="left">
   <em>Seasoned developer with a passion for cybersecurity and open-source contribution. I thrive on solving complex problems and building secure, efficient systems. My focus is on continuous learning and pushing the boundaries of what's possible in the digital realm.</em>
@@ -19,7 +20,8 @@
 
 ---
 
-### `root@~# skills`
+### `(base) ┌──(88448844㉿kali)-[~]`
+### `└─$ cat skills`
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -29,17 +31,19 @@
 
 ---
 
-### `root@~# stats`
+### `(base) ┌──(88448844㉿kali)-[~]`
+### `└─$ cat stats`
 
 <div align="center">
 
 | GitHub Stats                                                                                                                              | Top Languages                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=88448844&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=88448844&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=88448844&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=88448844&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats),   <a href="https://linkedin.com/in/gabriel-bengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
+  <a href="https://twitter.com/gabriel-bengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="40" /></a>|
 
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=88448844&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=88448844&theme=dark)](https://git.io/streak-stats) 
 
 ---
 
