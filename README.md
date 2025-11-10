@@ -41,8 +41,7 @@
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=88448844&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=88448844&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=88448844&theme=dark)](https://git.io/streak-stats) 
+ 
 
 ---
 
