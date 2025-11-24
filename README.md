@@ -15,7 +15,7 @@
 ### `└─$ whoami 88448844`
 
 <p align="left">
-  <em>I thrive on solving complex problems and building secure, efficient systems. My focus is on continuous learning and pushing the boundaries of what's possible in the digital realm and having fun while doing it.</em>
+  <em>I thrive on solving complex problems and building secure, efficient systems. My focus is on continuous learning and pushing the boundaries of what's possible in the digital realm ... and having fun while doing it!</em>
 </p>
 
 ---
