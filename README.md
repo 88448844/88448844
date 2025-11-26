@@ -29,21 +29,7 @@
   </a>
 </p>
 
----
-
-### `(base) ┌──(88448844㉿kali)-[~]`
-### `└─$ cat stats`
-
-<div align="center">
-
-| GitHub Stats                                                                                                                              | Top Languages                                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=88448844&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=88448844&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
- 
-
----
+ ---
 
 ### `(base) ┌──(88448844㉿kali)-[~]`
 ### `└─$ dig 88448844`
