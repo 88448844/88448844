@@ -36,5 +36,5 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/gabriel-bengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
-  <a href="https://twitter.com/gabriel-bengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="40" /></a>
+  <a href="https://X.com/Gabriel_Bengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="40" /></a>
 </p>
